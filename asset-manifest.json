@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mini_olx/static/css/main.135bde31.css",
+    "main.js": "/Mini_olx/static/js/main.9375111a.js",
+    "static/js/787.0bfbb89f.chunk.js": "/Mini_olx/static/js/787.0bfbb89f.chunk.js",
+    "static/media/eye-g055a2907e_1920.jpg": "/Mini_olx/static/media/eye-g055a2907e_1920.02abe7717860bc99ddcb.jpg",
+    "static/media/background-g528e71cec_1920.jpg": "/Mini_olx/static/media/background-g528e71cec_1920.98e088647972ab22ebaf.jpg",
+    "static/media/logo.svg": "/Mini_olx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mini_olx/index.html",
+    "main.135bde31.css.map": "/Mini_olx/static/css/main.135bde31.css.map",
+    "main.9375111a.js.map": "/Mini_olx/static/js/main.9375111a.js.map",
+    "787.0bfbb89f.chunk.js.map": "/Mini_olx/static/js/787.0bfbb89f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135bde31.css",
+    "static/js/main.9375111a.js"
+  ]
+}
